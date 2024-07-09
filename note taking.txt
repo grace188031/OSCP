@@ -1,0 +1,28 @@
+Install Tools: 
+Obsidian 
+https://help.obsidian.md/Getting+started/Download+and+install+Obsidian
+
+Greenshot
+
+
+-------------------------------------------------
+Top plugins
+
+https://www.youtube.com/watch?v=W7kTtn9empU
+
+1. Calendar
+2. Dataview
+3. Editor syntax highlight
+4. Kanban
+5. Outliner
+6. Periodic Notes
+7. Obsidian Publish- not free (use gitlab/github)
+8. Readwise official
+9. Obsydian Sync  - not free (use dropbox)
+10. Templater - run Javascript in the vault
+
+----------------------------------------------------
+Tutorial: 
+https://www.youtube.com/watch?v=WqKluXIra70
+
+https://www.youtube.com/watch?v=d3e7GWsqoU0
